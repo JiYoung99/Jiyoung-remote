@@ -1,2 +1,2 @@
 # Jiyoung-remote
-# from 7 node again2
+# from 6 and 7 node again2
